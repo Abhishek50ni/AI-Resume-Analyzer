@@ -1,0 +1,10 @@
+streamlit
+sentence-transformers
+spacy
+pymupdf
+scikit-learn
+numpy
+pandas
+plotly
+matplotlib
+wordcloud
